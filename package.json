@@ -18,7 +18,7 @@
     "@fortawesome/react-fontawesome": "^0.1.9",
     "@types/lodash.throttle": "^4.1.6",
     "@types/react-lottie": "^1.2.5",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "bulma": "^0.8.1",
     "gatsby": "2.20.29",
     "gatsby-plugin-google-fonts": "^1.0.1",
